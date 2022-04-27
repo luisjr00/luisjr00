@@ -1,5 +1,4 @@
-# Opa muito prazer, 
-# Me chamo Luís Antônio e sou Programador Jr !
+## Opa muito prazer, me chamo Luís Antônio e sou Programador Jr !
 
 <div align="center">
   <a href="https://github.com/luisjr00">
